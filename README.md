@@ -1,10 +1,10 @@
 
- - Detecção de fraude em pagamentos online
+# Online Payment Fraud Detection
 
-Nosso objetivo é identificar fraude em pagamentos online, para isso iremos treinar modelos para classificação de pagamentos em fraudulentos e não fraudulentos. Iremos testar vários classificadores distintos e concluir com base no mais eficiente dentre eles.
+Our goal is to identify fraud in online payments. To do this, we will train models to classify payments as fraudulent or non-fraudulent. We will test several different classifiers and conclude based on the most efficient one among them.
 
-Iremos utilizar o seguinte dataset do Kaggle: https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset, contendo informação sobre fraude em pagamentos online, de forma que verificamos quais tipos de transações levam à fraude.
+We will use the following dataset from Kaggle: https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset, which contains information on online payment fraud, allowing us to identify which types of transactions lead to fraud.
 
-Os dados contém informação histórica sobre transações fraudulentas que podem ser utilizadas para gerar os classificadores.
+The data contains historical information on fraudulent transactions, which can be used to generate the classifiers.
 
-Os detalhes do projeto se econtram no arquivo ipynb.
+The project details can be found in the ipynb file.
